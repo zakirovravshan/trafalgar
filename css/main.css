@@ -1,0 +1,173 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .header-logo{
+      display: inline-block;
+      vertical-align: middle;
+      padding-right: 391px;
+
+  }
+
+  .navbar{
+    display: inline-block;
+    padding-left: 0px;
+    }
+  .navbar-list{
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px;
+    
+    }
+    .navbar-link{
+        text-decoration: none;
+        font-size: 18px;
+        color: #111;
+        opacity: 0.5;
+    }
+    .active{
+        opacity: 1;
+    }
+.header-intro{
+    display: inline-block;
+    margin-top: 100px;
+    width: 50%;
+}
+.header-header{
+    display: inline-block;
+    font-size: 48px;
+}
+.header-p{
+    font-size: 21px;
+    margin: 25px 0px 45px 0px;
+}
+.header-consult{
+    border: 1px solid #485FF6;
+    border-radius: 50px;
+    padding: 10px 32px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #485FF6;
+}
+
+.header-image{
+    display: inline-block;
+    vertical-align: middle ;
+}
+
+.service-heading{
+    text-align: center;
+    margin-top: 100px;
+}
+.service-heading-text{
+    text-align: center;
+    color: #7D7987;
+    font-size: 18px;
+
+}
+
+.service-list{
+  margin-top: 28px;
+  padding-left: 0;
+  display: inline-block;
+}
+.service-items{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    border:  ;
+    background-color:#f1ffff ;
+    padding: 30px;
+    list-style-type: none;
+    border-radius: 15px;
+    margin: 10px 10px;
+}
+
+.service-link{
+text-align: center;
+}
+
+.service-link-text{
+    display: inline-block;
+    border: 1px solid #485FF6;
+    border-radius: 50px;
+    padding: 10px 32px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.about{
+    margin-top: 100px;
+}
+.about-pic{
+    display: inline-block;
+    width: 500px;
+    vertical-align: middle;
+}
+.about-image{
+    display: inline-block;
+}
+
+.about-content{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100PX;
+   
+}
+.about-heading{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.about-text{
+    font-size: 20px;
+    color: #7D7987;
+    margin-bottom: 30px;
+}
+.about-link{
+    display: inline-block;
+    border: 1px solid #485FF6;
+    border-radius: 50px;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.download{
+    margin-top: 100px;
+}
+.download-content{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 100PX;
+   
+}
+.download-heading{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.download-text{
+    font-size: 20px;
+    color: #7D7987;
+    margin-bottom: 30px;
+}
+.download-link{
+    display: inline-block;
+    border: 1px solid #485FF6;
+    border-radius: 50px;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.download-pic{
+    display: inline-block;
+    width: 500px;
+    vertical-align: middle;
+}
+.download-image{
+    display: inline-block;
+}
